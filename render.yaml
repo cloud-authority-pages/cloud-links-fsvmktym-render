@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cloud-links-fsvmktym
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
